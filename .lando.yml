@@ -1,0 +1,8 @@
+name: drupalgatsbytest
+recipe: pantheon
+config:
+  framework: drupal8
+  site: drupalgatsbytest
+  id: 2b4236e6-94d8-4678-be4c-059f35daa59f
+  webroot: web
+  xdebug: true
